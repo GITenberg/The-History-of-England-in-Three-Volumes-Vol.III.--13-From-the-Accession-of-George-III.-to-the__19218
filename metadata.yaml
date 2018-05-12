@@ -1,0 +1,32 @@
+_repo: The-History-of-England-in-Three-Volumes-Vol.III.--13-From-the-Accession-of-George-III.-to-the__19218
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19218-h/images3/cover_egraving_th.jpg
+creator:
+  authors:
+  - agent_name: Farr, Edward
+    gutenberg_agent_id: '8572'
+    url: http://www.gutenberg.org/2009/agents/8572
+  - agent_name: Nolan, E. H. (Edward Henry)
+    alias: Nolan, Edward Henry
+    gutenberg_agent_id: '8573'
+    url: http://www.gutenberg.org/2009/agents/8573
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- George IV, 1820-1830'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901'
+- !lcsh 'Great Britain -- History -- George III, 1760-1820'
+title: "The History of England in Three Volumes, Vol.III.\r\nFrom the Accession of\
+  \ George III. to the Twenty-Third Year of the Reign of Queen Victoria"
+url: http://www.gutenberg.org/ebooks/19218
