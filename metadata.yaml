@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '8573'
     url: http://www.gutenberg.org/2009/agents/8573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19218#The-History-of-England-in-Three-Volumes-Vol.III.--13-From-the-Accession-of-George-III.-to-the_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
